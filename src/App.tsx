@@ -1,5 +1,5 @@
 import { EggHuntDashboard } from "./components/EggsDashboard";
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from '@vercel/analytics/react';
 
 const Index = () => {
   return (
